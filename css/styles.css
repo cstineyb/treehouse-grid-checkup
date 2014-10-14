@@ -6,14 +6,18 @@ body {
 
 div {
 	margin-top: -60px;	x 
+	float: left;
+	border-bottom: red solid 5px ;
 }
 
 
 /* ADD SELECTOR HERE */
-{
+#home {
 	box-shadow: 0px 0px 10px #333;
 	margin-top: 24px;
 	padding: 48px;
+	border: red solid 5px;
+
 }
 
 /* Show Grid */
